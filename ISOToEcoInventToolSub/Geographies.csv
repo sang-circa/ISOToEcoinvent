@@ -57,7 +57,7 @@ a7b38401-afb6-4130-86f6-cd5184c6c40e,SERC Reliability Corporation,US-SERC,34.995
 fbfd6cb0-56b1-4d0b-a13f-7f9f213f9afa,"China, Guangdong (广东)",CN-GD,,,Province or State,
 c692fbb4-53d5-4e63-920d-361e98c90dab,Serranilla Bank,Serranilla Bank,,,Miscellaneous,
 00e67757-ad16-44e0-90fe-2bf10d4c2186,"United States of America, Michigan",US-MI,,,Province or State,
-10cadb86-7d7e-11de-9ae2-0019e336be3a,United States Minor Outlying Islands,UM,-0.385,-160.027,Country,
+10cadb86-7d7e-11de-9ae2-0019e336be3a,United States Minor Outlying Islands,UM,-0.385,-160.027,Country,UM-81; UM-84; UM-86; UM-67; UM-89; UM-71; UM-76; UM-95; UM-79
 e675a82e-88d2-11de-99d3-0019e336be3a,Northern Africa,UN-NAFRICA,23.8836323758,15.9667099565,UN Subregion,"DZ; EG; EH; IAI Area, Africa; LY; MA; SD; TN"
 1387ef8a-7d7e-11de-9ae2-0019e336be3a,Ukraine,UA,49.016,31.388,Country,
 b3d19998-fe81-4783-a19e-408d7424d876,"India, Madhya Pradesh",IN-MP,,,Province or State,
@@ -492,7 +492,7 @@ a4d7d7fd-94ae-4f44-91ba-53cd7f79bac4,Canada without Quebec,Canada without Quebec
 1505b46e-7d7e-11de-9ae2-0019e336be3a,Palau,PW,7.501,134.57,Country,
 23ccc3fe-88d5-11de-99d3-0019e336be3a,Central Asia,Central Asia,45.9159879708,66.4858014842,UN Subregion,"FSU; IAI Area, Asia, without China and GCC; KG; KZ; TJ; TM; UZ"
 0d8399c2-7d7e-11de-9ae2-0019e336be3a,Gabon,GA,-0.591,11.797,Country,
-13d387f6-7d7e-11de-9ae2-0019e336be3a,United States of America,US,39.622,-98.606,Country,MRO; NPCC; US-AK; US-AL; US-AR; US-ASCC; US-AZ; US-CA; US-CO; US-CT; US-DC; US-DE; US-FL; US-GA; US-HI; US-HICC; US-IA; US-ID; US-IL; US-IN; US-KS; US-KY; US-LA; US-MA; US-MD; US-ME; US-MI; US-MN; US-MO; US-MRO; US-MS; US-MT; US-NC; US-ND; US-NE; US-NH; US-NJ; US-NM; US-NPCC; US-NV; US-NY; US-OH; US-OK; US-OR; US-PA; US-RFC; US-RI; US-SC; US-SD; US-SERC; US-TN; US-TRE; US-TX; US-UT; US-VA; US-VT; US-WA; US-WECC; US-WI; US-WV; US-WY; WECC
+13d387f6-7d7e-11de-9ae2-0019e336be3a,United States of America,US,39.622,-98.606,Country,MRO; NPCC; US-AK; US-AL; US-AR; US-ASCC; US-AZ; US-CA; US-CO; US-CT; US-DC; US-DE; US-FL; US-GA; US-HI; US-HICC; US-IA; US-ID; US-IL; US-IN; US-KS; US-KY; US-LA; US-MA; US-MD; US-ME; US-MI; US-MN; US-MO; US-MRO; US-MS; US-MT; US-NC; US-ND; US-NE; US-NH; US-NJ; US-NM; US-NPCC; US-NV; US-NY; US-OH; US-OK; US-OR; US-PA; US-RFC; US-RI; US-SC; US-SD; US-SERC; US-TN; US-TRE; US-TX; US-UT; US-VA; US-VT; US-WA; US-WECC; US-WI; US-WV; US-WY; WECC; UM-81; UM-84; UM-86; UM-67; UM-89; UM-71; UM-76; UM-95;
 9a2c77cc-6736-4058-96d0-de5f041b22fc,"United States of America, Utah",US-UT,,,Province or State,
 0a4bff9c-7d7e-11de-9ae2-0019e336be3a,Brunei,BN,4.468,114.591,Country,
 142f54c8-7d7e-11de-9ae2-0019e336be3a,Uzbekistan,UZ,41.75,63.17,Country,
@@ -529,7 +529,7 @@ d4c8443a-d821-11de-b50d-0019e336be3a,Baltic System Operator,BALTSO,56.8154961753
 224fd156-b734-4ac7-b7b8-a6ad56e8ccec,"United States of America, Mississippi",US-MS,,,Province or State,
 4324911f-22e8-4e7f-ae3a-c7f95ecd13a2,"United States of America, Oregon",US-OR,,,Province or State,
 2ee2dbc5-0095-44a4-bb20-5faa60c17efe,"United States of America, Louisiana",US-LA,,,Province or State,MRO; US-MRO; US-SERC
-0d684cbc-7d7e-11de-9ae2-0019e336be3a,"Micronesia, Federated States of",FM,6.883,158.235,Country,
+0d684cbc-7d7e-11de-9ae2-0019e336be3a,"Micronesia, Federated States of",FM,6.883,158.235,Country,UM-79
 6bf93cce-7c23-463e-9962-898efa030fa2,"Canada, Alberta",CA-AB,,,Province or State,
 15265aa2-7d7e-11de-9ae2-0019e336be3a,Vatican,VA,41.9041775266,12.4511346138,Country,
 3af9101d-692a-4f6c-87c5-e43f00714165,"United States of America, Arkansas",US-AR,,,Province or State,MRO; US-MRO; US-SERC
@@ -540,25 +540,25 @@ fa7f6c22-bd54-58c5-a8f0-0939ace8b856,"China, Northwest Grid",CN-NWG,,,Electricit
 2248c6cf-f68d-4dac-85bb-fac7e80064f6,"Brazil, Rio Grande do Sul",BR-RS,,,Province or State,
 11311298-7d7e-11de-9ae2-0019e336be3a,Paraguay,PY,-23.236,-58.391,Country,
 17a40e27-7f28-48c3-892d-6121e748ed01,"Brazil, Sergipe",BR-SE,,,Province or State,
-d09a0e3b-bd6e-49f4-9bfb-9a3acbf9dc78,"European Union - 27 Member", EU27,,,Region
-e376cbfc-fa8e-4e63-a8a3-fac2f005d789,"OECD", OECD,,,Region
-8f7b17c2-2402-47d8-8651-974e2453c55b,"non-OECD", non-OECD,,,Region
-7a88624d-7b84-4a4d-bb2d-7b674e3a0418,"New Hebrides (Vanuatu)", NHVU,,,Country
-e3a2c2c3-45f8-4bcb-96ac-4e23288c37e2,"Baker Island",UM-81,,,Territory,
-f77b9e13-df32-42b2-8375-05f6b90c75ee,"Howland Island",UM-84,,,Territory,
-11c8e506-125e-438a-9e0a-32562c9f63e2,"Jarvis Island",UM-86,,,Territory,
-27e48e2d-b58c-4b3f-814b-7bfcd02c7b69,"Johnston Atoll",UM-67,,,Territory,
-20f158c4-5b3f-4df9-af14-30c308439c79,"Kingman Reef",UM-89,,,Territory,
-c0f20c63-55ad-4534-8de7-efaf9e5d46b7,"Midway Islands",UM-71,,,Territory,
-91ef20a5-d6f7-4c06-bb81-dce5eb4da0d4,"Navassa Island",UM-76,,,Territory,
-5b7507df-9143-48c8-a64b-28505b2f428d,"Palmyra Atoll",UM-95,,,Territory,
-c6d6f39b-5867-4f2b-9d4a-9d6257291760,"Wake Island",UM-79,,,Territory,
-e5402183-7b22-4d9c-9885-80f5eb0ee187,"OECD Asia",OECD-AS,,,Region,
-c6100e7a-7ef5-4201-98f0-5a79786d6d28,"OECD Oceania",OECD-OC,,,Region,
-3f5e1e79-69bb-41ff-b871-6a40c2fb2b95,"OECD Europe",OECD-EU,,,Region,
-550292b7-0cd1-4d69-b86c-23c4f8325e1a,"OECD North America",OECD-NA,,,Region,
-187fc989-9e35-4bdf-a539-5906a2fb1d1d,"Serbia and Montenegro (Former)", CS,,,Country,
-a9c1edc2-f172-4b36-bd7f-6b04f859ef27,"OPEC Middle East",OPEC-ME,,,Region,
-0fd5f438-f12a-4f14-ae22-06e072ac0c81,"OPEC Africa",OPEC-AF,,,Region,
-476fdbcb-dae7-4e2b-b868-ded28f9b631e,"OPEC South America",OPEC-SA,,,Region,
-b8b84b05-9b67-4e6a-8d7c-3fcb3e77a6d5, "non OPEC", non-OPEC,,,Region,
+d09a0e3b-bd6e-49f4-9bfb-9a3acbf9dc78,European Union - 27 Member,EU27,49.843055,9.901944,Region,"AT; BE; BG; HR; CY; CZ; DK; EE; FI; FR; DE; GR; HU; IE; IT; LV; LT; LU; MT; NL; PL; PT; RO; SK; SI; ES; SE; Europe without Austria; Europe without NORDEL (NCPA); Europe without Switzerland; Europe without Switzerland and Austria; Europe, without Russia and Türkiye; IAI Area, EU27 & EFTA; MQ; RAF; RE; RER; RER w/o CH+DE; RER w/o DE+NL+NO; RER w/o DE+NL+NO+RU; RER w/o DE+NL+RU; RER w/o RU; RLA; TF; UN-EUROPE;"
+e376cbfc-fa8e-4e63-a8a3-fac2f005d789,OECD, OECD,,,Region,US; GB; TR; CH; SE; ES; KR; SI; SK; PT; PL; NO; NZ; NL; MX; LU; LT; LV; JP; IT; IL; IE; IS; HU; GR; DE; FR; FI; EE; DK; CZ; CR; CO; CL; CA; BE; AT; AU
+8f7b17c2-2402-47d8-8651-974e2453c55b,non-OECD, non-OECD,,,Region,
+7a88624d-7b84-4a4d-bb2d-7b674e3a0418,New Hebrides (Vanuatu), NHVU,-15.3767,166.9592,Country,
+e3a2c2c3-45f8-4bcb-96ac-4e23288c37e2,Baker Island,UM-81,0.1936,-176.4769,Territory,
+f77b9e13-df32-42b2-8375-05f6b90c75ee,Howland Island,UM-84,0.8113,-176.6183,Territory,
+11c8e506-125e-438a-9e0a-32562c9f63e2,Jarvis Island,UM-86,-0.3744,-159.9967,Territory,
+27e48e2d-b58c-4b3f-814b-7bfcd02c7b69,Johnston Atoll,UM-67,16.7295,-169.5336,Territory,
+20f158c4-5b3f-4df9-af14-30c308439c79,Kingman Reef,UM-89,6.3833,-162.4167,Territory,
+c0f20c63-55ad-4534-8de7-efaf9e5d46b7,Midway Islands,UM-71,28.2072,-177.3735,Territory,
+91ef20a5-d6f7-4c06-bb81-dce5eb4da0d4,Navassa Island,UM-76,18.4101,-75.0115,Territory,
+5b7507df-9143-48c8-a64b-28505b2f428d,Palmyra Atoll,UM-95,5.8833,-162.0833,Territory,
+c6d6f39b-5867-4f2b-9d4a-9d6257291760,Wake Island,UM-79,19.2796,166.6499,Territory,
+e5402183-7b22-4d9c-9885-80f5eb0ee187,OECD Asia,OECD-AS,,,Region,JP; KR; IL; TR
+c6100e7a-7ef5-4201-98f0-5a79786d6d28,OECD Oceania,OECD-OC,,,Region,AU; NZ
+3f5e1e79-69bb-41ff-b871-6a40c2fb2b95,OECD Europe,OECD-EU,,,Region,AT; BE; CZ; DK; EE; FI; FR; DE; GR; HU; IS; IE; IT; LV; LT; LU; NL; NO; PL; PT; SK; SI; ES; SE; CH; TR; GB
+550292b7-0cd1-4d69-b86c-23c4f8325e1a,OECD North America,OECD-NA,,,Region,CA; MX; US
+187fc989-9e35-4bdf-a539-5906a2fb1d1d,Serbia and Montenegro (Former),CS,44.816667,20.466667,Country,"Serbia, Montenegro"
+a9c1edc2-f172-4b36-bd7f-6b04f859ef27,OPEC Middle East,OPEC-ME,,,Region,IR; IQ; KW; SA; AE;
+0fd5f438-f12a-4f14-ae22-06e072ac0c81,OPEC Africa,OPEC-AF,,,Region,DZ; CG; GQ; GA; LY; NG
+476fdbcb-dae7-4e2b-b868-ded28f9b631e,OPEC South America,OPEC-SA,,,Region,VE;
+b8b84b05-9b67-4e6a-8d7c-3fcb3e77a6d5, non OPEC, non-OPEC,,,Region,
